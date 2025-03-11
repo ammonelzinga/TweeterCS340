@@ -1,3 +1,4 @@
+NOT the Correct Tweeter Application. Go to Tweeter repository instead
 # Tweeter-Web
 
 A starter project for the Tweeter Web application.
